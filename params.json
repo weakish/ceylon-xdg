@@ -1,0 +1,6 @@
+{
+  "name": "ceylon-xdg",
+  "tagline": "XDG base directories for application.",
+  "body": "XDG base directories for application.\r\n\r\nDoc\r\n---\r\n\r\n<https://weakish.github.io/ceylon-xdg/api/>\r\n\r\nInstall\r\n-------\r\n\r\nDownload the car file at [Releases] and put it in ceylon module repository.\r\n\r\n[Releases]: https://github.com/weakish/ceylon-xdg/releases\r\n\r\nContribute\r\n----------\r\n\r\nSend pull requests at <https://github.com/weakish/ceylon-xdg>\r\n\r\nLicense\r\n-------\r\n\r\n0BSD\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
